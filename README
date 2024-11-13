@@ -1,0 +1,21 @@
+Exercice de création d'arbre de décision
+
+1) j'ai téléchargé un fichier de data sur kaggle sur des members exercise traking
+    lien kaggle : https://www.kaggle.com/datasets/valakhorasani/gym-members-exercise-dataset
+
+2) je l'ai placé dans mon dossier "gym" dans PyCharm pour pouvoir l'exploiter dans mon fichier gym.py
+
+3) LE TRAVAIL SUR LE FICHIER gym.py
+
+*importation des librairies
+
+*AFFICHAGE ET INFORMATIONS GENERALES DE LA DATA
+
+*NETTOYAGE DES DONNEES
+
+*PRE TRAITEMENT DES DONNEES (pour transformer les données objet string en numérique)
+
+* création d'un premier arbre de décision qui cible le Workout_Type
+
+* création d'un deuxième arbre de décision qui cible le Experience_Level
+
